@@ -1,5 +1,4 @@
 ## This is done for my course cia2 
-* https://taskfyer.vercel.app/login 
 * the above presented link is the live link
 
 ## Add these variables in your .env file 
